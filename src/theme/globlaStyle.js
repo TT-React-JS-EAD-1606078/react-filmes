@@ -13,4 +13,12 @@ export const GlobalStyle = createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
   }
+
+  input {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  button {
+    font-family: 'Poppins', sans-serif;
+  }
 `
